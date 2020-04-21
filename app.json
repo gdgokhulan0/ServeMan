@@ -1,0 +1,21 @@
+{
+  "expo": {
+   "name": "ServeMan",
+   "icon": "./assets/ServeMan.png",
+   "version": "1.1.2",
+   "slug": "serviceapplication",
+   "ios": {
+     "bundleIdentifier": "com.devgdg0.serveman",
+     "buildNumber": "1.1.2"
+   },
+   "splash": {
+    "image": "./assets/ServeMan.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#000000"
+  },
+   "android": {
+     "package": "com.devgdg0.serveman",
+     "versionCode": 1
+   }
+  }
+}
